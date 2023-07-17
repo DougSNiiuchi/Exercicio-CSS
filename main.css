@@ -114,5 +114,12 @@ section h2{
     background-color:rgb(50, 151, 151) ;
 }
 
+#tecnology{
+    background-color: #aaaaaa;
+}
+
+#tecnology .articles article a{
+    background-color: #494949;
+}
 
 
